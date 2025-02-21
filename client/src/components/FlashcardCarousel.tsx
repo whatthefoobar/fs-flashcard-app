@@ -5,7 +5,7 @@ const flashcardsData = [
   {
     front: "Apple",
     back: "Manzana",
-    audioUrl: "/assets/audio/apple.mp3",
+    audioUrl: "/assets/audio/sample.mp3",
   },
   {
     front: "Book",
@@ -15,7 +15,6 @@ const flashcardsData = [
     front: "House",
     back: "Casa",
   },
-  // Add more flashcards as needed
 ];
 
 const FlashcardCarousel = () => {
