@@ -1,5 +1,8 @@
 # fs-flashcard-app
 
+Problems:
+- Vite has some proxy errors , despite all the settings in place we still get Cors errors (despite Cors settings to include our localhost request) read it is a latest Vite error and so far no real solutions. Will leave on hold for now.
+
 Start of a Quizlet inspired app.
 
 - Users should be able to create an account and log in, create a flashcard set with words and attach audio. Users should be able to create edit and delete flashcard sets.
